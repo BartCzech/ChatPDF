@@ -15,7 +15,7 @@ Upon attempting to incorporate the ChatPDF API into our project workflow, it bec
 -- query to PDF1
 -- query to PDF2
 etc.
-- **Logic Errors and Inaccurate Retrievals**: Notably, the API demonstrated instances of logic errors and inaccuracies in retrieving information from PDF documents. Despite tailored queries, the API occasionally yielded incorrect or irrelevant results.
+- **Logic Errors and Inaccurate Retrievals**: The API demonstrated instances of logic errors and inaccuracies in retrieving information from table-like structures. Despite tailored queries, the API occasionally yielded incorrect or irrelevant results.
   <img width="695" alt="chatpdf mixed results" src="https://github.com/BartCzech/ChatPDF/assets/81484379/35ed3a13-827d-4439-bc2d-604df579f2dc">
   <img width="647" alt="actual info" src="https://github.com/BartCzech/ChatPDF/assets/81484379/cd757866-207b-4818-bc86-b35491062879">
 
