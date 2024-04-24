@@ -7,7 +7,7 @@ api_key = os.getenv("CHATPDF_API_KEY")
 print(api_key)
 
 files = [
-    ('file', ('file', open('Investments-paper.pdf', 'rb'), 'application/octet-stream'))
+    ('file', ('file', open('client-reqs.pdf', 'rb'), 'application/octet-stream')) # tam src: src_f6JtID1k9nZX20im5xFA9, client-reqs src: src_kBcRi75xc7EKQ85g9Gze9
 ]
 headers = {
     'x-api-key': api_key
