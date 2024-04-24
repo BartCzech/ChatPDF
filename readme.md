@@ -9,7 +9,7 @@ Upon attempting to incorporate the ChatPDF API into our project workflow, it bec
 ### Limitations Identified
 - **Inadequate Support for Multiple Files**: The API's inability to handle multiple PDF files concurrently posed a significant challenge. Our project necessitated the management of numerous PDF documents, rendering this limitation problematic.
 - **Logic Errors and Inaccurate Retrievals**: Notably, the API demonstrated instances of logic errors and inaccuracies in retrieving information from PDF documents. Despite tailored queries, the API occasionally yielded incorrect or irrelevant results.
-![Retrieved info](chatpdf mixed results.jpg)
+  <img width="695" alt="chatpdf mixed results" src="https://github.com/BartCzech/ChatPDF/assets/81484379/35ed3a13-827d-4439-bc2d-604df579f2dc">
 ![Actual info](actual info.jpg)
 
 ## Conclusion
