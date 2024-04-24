@@ -23,6 +23,10 @@ etc.
 The biggest problem encountered seems to be the specification of the TAM document, as the model, having successfully extracted main client requirements, doesn't seem to retrieve relevant information from the TAM document.
 1. **Successful Identification of Client Requirements:**
    ![Client Requirements](https://github.com/BartCzech/ChatPDF/assets/81484379/af8bed6d-ee84-4c1a-a83a-fad7506a5d8a)
-   The model successfully identified the main client requirements, indicating the effectiveness of the extraction process.
+   The model successfully identified the main client requirements.
 2. **Challenges in Identifying TAM Equivalents:**
    ![TAM Output](https://github.com/BartCzech/ChatPDF/assets/81484379/6d2d40e5-568f-41e7-bd38-71b05edb6693)
+   Unfortunately, the model poorly identifies TAM equivalents.
+
+### Conclusion
+The main challenge is the structure of the TAM file. The names and documentation is very vague. 
