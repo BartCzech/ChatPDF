@@ -21,7 +21,7 @@ etc.
 
 ### TAM structure
 The biggest problem encountered seems to be the specification of the TAM document, as the model, having successfully extracted main client requirements, doesn't seem to retrieve relevant information from the TAM document.
-Successfully identified client requirements:
+- Successfully identified client requirements:
 <img width="647" alt="clientreqs" src="https://github.com/BartCzech/ChatPDF/assets/81484379/af8bed6d-ee84-4c1a-a83a-fad7506a5d8a">
-Identified TAM equivalents:
+- Identified TAM equivalents:
 <img width="650" alt="tam output" src="https://github.com/BartCzech/ChatPDF/assets/81484379/6d2d40e5-568f-41e7-bd38-71b05edb6693">
