@@ -19,4 +19,9 @@ etc.
   <img width="695" alt="chatpdf mixed results" src="https://github.com/BartCzech/ChatPDF/assets/81484379/35ed3a13-827d-4439-bc2d-604df579f2dc">
   <img width="647" alt="actual info" src="https://github.com/BartCzech/ChatPDF/assets/81484379/cd757866-207b-4818-bc86-b35491062879">
 
-
+### TAM structure
+The biggest problem encountered seems to be the specification of the TAM document, as the model, having successfully extracted main client requirements, doesn't seem to retrieve relevant information from the TAM document.
+Successfully identified client requirements:
+<img width="647" alt="clientreqs" src="https://github.com/BartCzech/ChatPDF/assets/81484379/af8bed6d-ee84-4c1a-a83a-fad7506a5d8a">
+Identified TAM equivalents:
+<img width="650" alt="tam output" src="https://github.com/BartCzech/ChatPDF/assets/81484379/6d2d40e5-568f-41e7-bd38-71b05edb6693">
